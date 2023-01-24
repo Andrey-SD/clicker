@@ -1,0 +1,10 @@
+p {
+	text-align: center;
+	font-size: 3rem;
+}
+
+button {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
