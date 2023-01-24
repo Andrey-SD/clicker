@@ -4,7 +4,6 @@ let score = 0;
 
 function hendler() {
 	score++;
-	console.log(score);
 	scoreText.innerHTML = score;
 }
 
